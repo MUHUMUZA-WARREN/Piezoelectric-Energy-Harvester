@@ -1,0 +1,60 @@
+Protel Design System Design Rule Check
+PCB File : E:\UpWork Revisions\Piezoelectric Energy Harvester\Piezoelectric Energy Harvester.PcbDoc
+Date     : 5/6/2023
+Time     : 8:42:31 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-1(977.323mil,819.37mil) on Top Layer And Pad U1-2(977.323mil,799.685mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-10(1142.677mil,819.37mil) on Top Layer And Pad U1-9(1142.677mil,799.685mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-2(977.323mil,799.685mil) on Top Layer And Pad U1-3(977.323mil,780mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-3(977.323mil,780mil) on Top Layer And Pad U1-4(977.323mil,760.315mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-4(977.323mil,760.315mil) on Top Layer And Pad U1-5(977.323mil,740.63mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-6(1142.677mil,740.63mil) on Top Layer And Pad U1-7(1142.677mil,760.315mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-7(1142.677mil,760.315mil) on Top Layer And Pad U1-8(1142.677mil,780mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.386mil < 10mil) Between Pad U1-8(1142.677mil,780mil) on Top Layer And Pad U1-9(1142.677mil,799.685mil) on Top Layer [Top Solder] Mask Sliver [3.386mil]
+Rule Violations :8
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad C4-1(1310mil,759.165mil) on Top Layer And Track (1274.445mil,689.312mil)(1274.445mil,720.688mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad C4-1(1310mil,759.165mil) on Top Layer And Track (1345.555mil,689.312mil)(1345.555mil,720.688mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad C4-2(1310mil,650.835mil) on Top Layer And Track (1274.445mil,689.312mil)(1274.445mil,720.688mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.874mil < 10mil) Between Pad C4-2(1310mil,650.835mil) on Top Layer And Track (1345.555mil,689.312mil)(1345.555mil,720.688mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.874mil]
+Rule Violations :4
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:02

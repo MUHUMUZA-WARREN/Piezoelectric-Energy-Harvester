@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Piezoelectric Energy Harvester Member=J1
+Added Pin To Net: NetName=VOUT Pin=J3-1
+Added Pin To Net: NetName=PowerGood Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=PZ1 Pin=P1-1
+Added Pin To Net: NetName=PZ2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-MP1
+Added Pin To Net: NetName=GND Pin=P1-MP2
